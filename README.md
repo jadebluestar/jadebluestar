@@ -4,7 +4,7 @@
 - 💞️ I'm open to any projects
 - 📫 How to reach me ig- fionafdsouza
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: dolphins sleep with one with closed, I can sleep with both close (mind==blown)
+- ⚡ Fun fact: dolphins sleep with one eye closed, I can sleep with both closed (mind==blown)
 
 <!---
 fi-losopher/fi-losopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
