@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fi-losopher
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning app development and machine learning
+- 🌱 I’m currently learning app development and machine learning and automation but mainly DSA
 - 💞️ I'm open to any projects
-- 📫 How to reach me ig- fionafdsouza
+- 📫 How to reach me ig- bettercallfiona
+- 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: dolphins sleep with one eye closed, I can sleep with both closed (mind==blown)
 
