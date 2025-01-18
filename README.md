@@ -3,7 +3,7 @@ fi-losopher/fi-losopher is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hi!<br> <br>I'm Fiona<br><br>I love learning new things and building stuff!
+Hi!<br> <br>I'm Fiona<br><br>
 
 
 ## 🌐 Socials:
