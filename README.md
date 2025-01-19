@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 Hi!<br> <br>I'm Fiona<br><br>
-
 https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433
 
 ## 🌐 Socials:
