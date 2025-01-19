@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 Hi!<br> <br>I'm Fiona<br><br>
 
-![Uploading pixel-jeff-mario.gif…]()
+![pixel-jeff-mario](https://github.com/user-attachments/assets/f5c8330e-99ba-4a8e-88bf-62fee3394e21)
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fiona) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Fiona) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fi_losoper) 
