@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 Hi!<br> <br>I'm Fiona<br><br>
-https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433
+
+![Uploading pixel-jeff-mario.gif…]()
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fiona) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Fiona) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fi_losoper) 
