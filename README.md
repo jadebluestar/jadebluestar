@@ -3,6 +3,7 @@
 <h3 align="center">part time developer, full time yapper</h3>
 
 
+
 ![pixel-jeff-mario](https://github.com/user-attachments/assets/f5c8330e-99ba-4a8e-88bf-62fee3394e21)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fi-losopher&label=Profile%20views&color=0e75b6&style=flat" alt="fi-losopher" /> </p>
@@ -27,10 +28,16 @@
 
 - ⚡ Fun fact **I have the ability to sleep, anytime anywhere!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![dev](https://github.com/user-attachments/assets/4f0ab93e-a6d6-4bcf-8860-8f20b509f382)
 
+<h3>if(brain != empty){<br>
+KeepCoding();<br>
+else{<br>
+Sleep(or watch a movie);<br>
+  }
+</h3>
+
+![9 DREADFUL opening line errors that will doom your media pitch http___bit_ly_2LuCXJp](https://github.com/user-attachments/assets/27c9da11-5a1d-4557-b607-fff4a99c0c95)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/filosopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="filosopher" height="30" width="40" /></a>
@@ -47,13 +54,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-losopher&" alt="fi-losopher" /></p>
 
+![🥀🥀🥀](https://github.com/user-attachments/assets/99de809d-8f68-4391-95e0-d33df03ad2d7)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fi-losopher&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+![𝓕𝓲𝓻𝓮𝓯𝓵𝓲𝓮𝓼](https://github.com/user-attachments/assets/40537ec2-7b74-43ee-8264-2beec8d23cb2)
+
+
+
 [![](https://visitcount.itsvg.in/api?id=fi-losopher&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
