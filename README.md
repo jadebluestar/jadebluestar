@@ -13,7 +13,7 @@
 | Write code (mostly)            | Listen to my mom (just kidding... or am I?) |
 | Debug tricky problems          | Make new friends                         |
 | Learn new technologies quickly | Touch Grass      |
-| Sleep anywhere, anytime        | ~~Get a boyfriend~~            |
+| Sleep anywhere, anytime        | 
 | Build cool projects            | Exercise                                  |
 | Impromptu gigs                 | Resist a good movie marathon
 | Debates                        | Focus on stuff    |
